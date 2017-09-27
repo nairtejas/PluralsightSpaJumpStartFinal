@@ -11,6 +11,7 @@
 
     var appTitle = 'CCJS';
 
+
     var routes = [{
         url: 'sessions',
         moduleId: 'viewmodels/sessions',
